@@ -36,7 +36,8 @@ setTimeout( function go(){
   s++
 })
 }
-time(0,0,0)```
+time(0,0,0)
+```
 
 ##Experience
 
