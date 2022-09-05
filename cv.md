@@ -45,4 +45,4 @@ time(0,0,0)
 Belarusian State Medical University
 
 ##English
-A2(practice my english when play online games xd ) 
+A2(Practice my english when play online games xd ) 
