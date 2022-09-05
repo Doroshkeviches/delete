@@ -1,23 +1,23 @@
-#Evgeniy Doroshkevich  
+# Evgeniy Doroshkevich  
 
-##Contact information:
-+Phone number +375445477232
-+Emale Doroshkeviches@yandex.ru
-+Instagram Doroshkeviches
-+Telegram Doroshkeviches
+## Contact information:
++ Phone number +375445477232
++ Emale Doroshkeviches@yandex.ru
++ Instagram Doroshkeviches
++ Telegram Doroshkeviches
 
-##About me:
+## About me:
 I study at Belarusian State Medical University, but i interested in math and programing.
 
 
 
-##Skills:
-JS basis
-HTML
-CSS
+## Skills:
+* JS basis
+* HTML
+* CSS
 
 
-##Code example:
+## Code example:
 new GUCCI watches 
 ```
 function time (h,m, s){
@@ -39,10 +39,10 @@ setTimeout( function go(){
 time(0,0,0)
 ```
 
-##Experience
+## Experience
 
-##Education
+## Education
 Belarusian State Medical University
 
-##English
+## English
 A2(Practice my english when play online games xd ) 
